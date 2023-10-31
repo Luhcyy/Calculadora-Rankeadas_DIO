@@ -1,0 +1,14 @@
+{
+  "name": "desafio-calculadora-rankeada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora-rankeadas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Luiz Assis",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
